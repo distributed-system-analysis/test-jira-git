@@ -13,3 +13,5 @@ Earlier did not worked. Trying change state without comment.
 Added new email id, checking it.
 
 Testing transition with commit message.
+
+Changing state to TODO
