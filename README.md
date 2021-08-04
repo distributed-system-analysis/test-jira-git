@@ -17,3 +17,7 @@ Testing transition with commit message.
 Changing state to TODO
 
 Moving to #to-do
+
+Riya: Checking state change
+
+- Correct way #in-progress
