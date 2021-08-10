@@ -17,5 +17,3 @@ Testing transition with commit message.
 Changing state to TODO
 
 Moving to #to-do
-
-Checking whether same things work again or not.
